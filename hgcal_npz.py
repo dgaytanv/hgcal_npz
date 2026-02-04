@@ -204,6 +204,10 @@ def events_factory(rootfile):
         'RecHitHGC_MergedSimClusterBestMatchIdx',
         'RecHitHGC_MergedSimClusterBestMatchQual',
 
+        'RecHitHGC_detId',
+        'RecHitHGC_SimClusterBestMatchIdx',
+        'RecHitHGC_SimClusterBestMatchQual',
+
         'MergedSimCluster_impactPoint_eta',
         'MergedSimCluster_impactPoint_phi',
         'MergedSimCluster_impactPoint_x',
